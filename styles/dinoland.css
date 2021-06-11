@@ -95,6 +95,7 @@ body{
     flex-direction: column;
     margin-left: 5%;
     margin-right: 5%;
+    text-align: justify;
 }
 .header{
     display: flex;

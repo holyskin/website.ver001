@@ -84,6 +84,16 @@ body{
     flex-direction: column;
     margin-left: 5%;
     margin-right: 5%;
+    text-align:justify;
+}
+.groupdisc {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align:center;
 }
 .group_image {
     width: 100%;

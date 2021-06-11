@@ -2,6 +2,9 @@ a{
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
+h1{
+    text-align: center;
+}
 a:hover{
     text-decoration: underline;
     font-size:larger;
@@ -73,8 +76,9 @@ body{
     flex-direction: column;
     /* margin-left: 5%;
     margin-right: 5%; */
-    margin-top: 100px;
+    margin-top: 50px;
     font-size: 125%;
+    text-align: justify;
 }
 .group_image {
     width: 100%;
